@@ -1,0 +1,30 @@
+    body { font: 18px Arial;
+        color:black;
+    }
+
+    path { 
+        stroke: steelblue;
+        stroke-width: 3.3;
+        fill: none;
+    }
+
+    text.shadow {
+        stroke: white;
+        stroke-width: 3.7px;
+        opacity: 0.5;
+    }
+
+    .axis path,
+    .axis line {
+        fill: none;
+        stroke: black;
+        stroke-width: 2.4;
+        shape-rendering: crispEdges;
+    }
+    #new_input{
+        font: 18px Arial;
+        font-weight: bold;
+        color:steelblue;
+        text-align: center;
+
+    }
